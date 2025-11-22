@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.vscode/
+.idea/
+*.log
+youtube_downloads/
+dist/
+build/
+*.egg-info/
