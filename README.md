@@ -2,8 +2,6 @@
 
 Modern arayüzü ve gelişmiş özellikleri ile kullanıcı dostu bir YouTube medya indirme uygulaması.
 
-![Ekran Görüntüsü](https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1000&auto=format&fit=crop)
-
 ## 🌟 Özellikler
 
 - **Çoklu Format Desteği:**
@@ -22,7 +20,7 @@ Modern arayüzü ve gelişmiş özellikleri ile kullanıcı dostu bir YouTube me
 
 2. **Projeyi Klonlayın veya İndirin:**
    ```bash
-   git clone https://github.com/kullaniciadi/youtube-mp3-converter.git
+   git clone https://github.com/senolkms/youtube-mp3-converter.git
    cd youtube-mp3-converter
    ```
 
